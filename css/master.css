@@ -1,0 +1,53 @@
+body {
+    font-family: 'DotGothic16', sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+header{
+    background-color: rgb(255, 0, 0);
+}
+
+header h1{
+    text-align: center;
+}
+
+header figcaption{
+    text-align: center;
+}
+
+h2{
+    color: #000;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+p{
+    font-size: 20px;
+    margin: 0 100px 0 100px;
+    padding-bottom: 20px;
+}
+
+img{
+    height: 400px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    background-color: rgb(224, 82, 82);
+    margin: 0 100px 0 100px;
+}
+
+figure figcaption{
+    font-size: 15px;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(224, 82, 82);
+    font-size: 10px;
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
